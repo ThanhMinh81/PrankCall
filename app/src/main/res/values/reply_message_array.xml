@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="message_reply">
+        <item name="txt_hi_reply">Hi My friend <![CDATA[\<img src\=\'ic_smiling_face_with_stuck\'\/\>]]> How are you
+            <![CDATA[\<img src\=\'ic_smiling_open_mouth\'\/\>]]>
+            <![CDATA[\<img src\=\'ic_smiling_open_mouth\'\/\>]]>
+            <![CDATA[\<img src\=\'ic_smiling_open_mouth\'\/\>]]> </item>
+
+        <item name="txt_good_reply">Super good, thank you friend! It\'s great to talk with you today  <![CDATA[\<img src\=\'ic_smiling_face_with_heart\'\/\>]]> </item>
+        <item name="txt_who_reply">Basically,  I\'m the coolest monster in the world <![CDATA[\<img src\=\'ic_smiling_with_sunglasses\'\/\>]]> </item>
+        <item name="txt_where_from_reply">I\'m from Palermo, Italy. But.. long time I haven\'t been home  <![CDATA[\<img src\=\'ic_smiling_rolling_laughing\'\/\>]]>   <![CDATA[\<img src\=\'ic_smiling_rolling_laughing\'\/\>]]> </item>
+        <item name="txt_alive_reply">You can guess haha... <![CDATA[\<img src\=\'ic_smiling_rolling_laughing\'\/\>]]> <![CDATA[\<img src\=\'ic_smiling_rolling_laughing\'\/\>]]> <![CDATA[\<img src\=\'ic_smiling_rolling_laughing\'\/\>]]> </item>
+
+        <item name="txt_heard_dead_reply">It\'s just a koke bro <![CDATA[\<img src\=\'ic_smiling_open_mouth\'\/\>]]> <![CDATA[\<img src\=\'ic_smiling_open_mouth\'\/\>]]>, I\'m still alive. I\'m traveling all over Europe and I post my trip on Instagram every day,  Do you know my Insta? </item>
+        <item name="txt_really_reply">monster.man is my Instagram. Follow me and travel all over Europe with me  <![CDATA[\<img src\=\'ic_smiling_face_with_heart\'\/\>]]>  <![CDATA[\<img src\=\'ic_smiling_face_with_heart\'\/\>]]></item>
+
+        <item name="txt_old_reply">It is quite hard to say exactly but i became famous since 2023</item>
+        <item name="txt_calling_reply">I\'m so sad, nobody answers my call. I just wanna talk <![CDATA[\<img src\=\'ic_smiling_grinning_face\'\/\>]]> <![CDATA[\<img src\=\'ic_smiling_grinning_face\'\/\>]]> </item>
+
+        <item name="txt_they_say_reply">It\'s impossible. But..^. I threatened them that they would have to turn into monster.. cant\'t blame me.. it\'s their fault! No on accepts my phone</item>
+        <item name="txt_kind_food_reply">I love your lips <![CDATA[\<img src\=\'ic_smiling_rolling_floor_laughing\'\/\>]]> . It\'s delicious hahaha</item>
+        <item name="txt_favorite_cartoon_reply">Family Guys hehehe <![CDATA[\<img src\=\'ic_smiling_with_smiling_eyes\'\/\>]]> <![CDATA[\<img src\=\'ic_smiling_with_smiling_eyes\'\/\>]]> <![CDATA[\<img src\=\'ic_smiling_smiling_with_smiling_eyes\'\/\>]]></item>
+        <item name="txt_joke_reply">I\'m not a joker but let me think about this joke. <![CDATA[\<img src\=\'ic_smiling_rolling_laughing\'\/\>]]> <![CDATA[\<img src\=\'ic_smiling_rolling_laughing\'\/\>]]> Yesterday I was so bored, I  saw an ant in my kitchen and i placed few sugar cubes in front of her. She had some and went to tell her friends and I quickly hid the suger cubes because I wanted them to think that she is a liar <![CDATA[\<img src\=\'ic_smiling_rolling_laughing\'\/\>]]> <![CDATA[\<img src\=\'ic_smiling_rolling_laughing\'\/\>]]> </item>
+
+        <item name="txt_funny_reply">OMG! So cute, thank your friend mee to i love you... big heart <![CDATA[\<img src\=\'ic_smiling_face_with_heart\'\/\>]]> <![CDATA[\<img src\=\'ic_smiling_face_with_heart\'\/\>]]>    </item>
+
+        <item name="txt_hobby_reply">I like traveling listening to music, and buying shoes <![CDATA[\<img src\=\'ic_smiling_face_with_tears\'\/\>]]>  </item>
+
+        <item name="txt_fan_reply"> Really? OMG I love you so much <![CDATA[\<img src\=\'ic_smiling_face_with_heart\'\/\>]]> <![CDATA[\<img src\=\'ic_smiling_face_with_heart\'\/\>]]> <![CDATA[\<img src\=\'ic_smiling_face_with_heart\'\/\>]]> <![CDATA[\<img src\=\'ic_smiling_face_with_heart\'\/\>]]> </item>
+
+        <item name="txt_possible_reply"> Yes of course, let be Friends forever </item>
+
+        <item name="txt_fight_bad_reply">Very ease, I just called my character Holly with a powerfull costume  <![CDATA[\<img src\=\'ic_smiling_face_with_tears\'\/\>]]> </item>
+
+        <item name="txt_like_application_reply">I love this application so much <![CDATA[\<img src\=\'ic_smiling_face_with_heart\'\/\>]]><![CDATA[\<img src\=\'ic_smiling_face_with_heart\'\/\>]]>, if you like it too give me 5 start and cute comment </item>
+        <item name="txt_goodbye_reply">Thank you for this chat. I with repeat this conversation. <![CDATA[\<img src\=\'ic_smiling_open_mouth\'\/\>]]> <![CDATA[\<img src\=\'ic_smiling_open_mouth\'\/\>]]> </item>
+        <item name="txt_thank_conver_reply">Famili Guys hehehe <![CDATA[\<img src\=\'ic_smiling_open_mouth\'\/\>]]><![CDATA[\<img src\=\'ic_smiling_open_mouth\'\/\>]]> </item>
+        <item name="txt_thank_conver_reply">Welcoome, it\'s nice to speak with you today <![CDATA[\<img src\=\'ic_smiling_delicious_food\'\/\>]]> <![CDATA[\<img src\=\'ic_smiling_delicious_food\'\/\>]]> <![CDATA[\<img src\=\'ic_smiling_delicious_food\'\/\>]]> </item>
+
+    </string-array>
+
+
+</resources>

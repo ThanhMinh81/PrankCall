@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="message_send">
+        <item name="txt_hi_send">Hi <![CDATA[<img src=\'ic_smiling_open_mouth\'\/>]]></item>
+        <item name="txt_good_send">I\'m Good, what about you? </item>
+        <item name="txt_who_send">Who are you? </item>
+        <item name="txt_where_from_send">Where are you form?</item>
+        <item name="txt_alive_send">Are you alive? <![CDATA[\<img src\=\'ic_smiling_grinning_with_sweat\'\/\>]]> </item>
+        <item name="txt_heard_dead_send">But i heard you\'re been dead for a while, it that true? <![CDATA[\<img src\=\'ic_smiling_grinning_face\'\/\>]]> </item>
+        <item name="txt_really_send"> Really? Luckily you\'re  not dead. I dont\'t know your Instagram, can you give it to me, please? </item>
+        <item name="txt_old_send">How old are you? <![CDATA[\<img src\=\'ic_smiling_grinning_with_sweat\'\/\>]]>  </item>
+        <item name="txt_calling_send">Why do you keep calling others at 5 AM? </item>
+        <item name="txt_they_say_send">They say they will turn into monster if they accept your call </item>
+        <item name="txt_kind_food_send">What kind of food do you like?</item>
+        <item name="txt_favorite_cartoon_send">What your favorite cartoon?</item>
+        <item name="txt_joke_send">Tell me a joke  ? <![CDATA[\<img src\=\'ic_smiling_rolling_laughing\'\/\>]]> <![CDATA[\<img src\=\'ic_smiling_rolling_laughing\'\/\>]]> <![CDATA[\<img src\=\'ic_smiling_rolling_laughing\'\/\>]]> </item>
+        <item name="txt_funny_send">You are so funny I love you :))) </item>
+        <item name="txt_hobby_send">What is your hobby <![CDATA[\<img src\=\'ic_smiling_face_with_tears\'\/\>]]> </item>
+        <item name="txt_fan_send">Do you know I\'m big fan of you </item>
+        <item name="txt_possible_send">Is it possible to be friends? </item>
+        <item name="txt_fight_bad_send">How to fight bad guys? </item>
+        <item name="txt_like_application_send">Do you like this application <![CDATA[\<img src\=\'ic_smiling_face_with_heart\'\/\>]]><![CDATA[\<img src\=\'ic_smiling_face_with_heart\'\/\>]]>  </item>
+        <item name="txt_goodbye_send">See you again <![CDATA[\<img src\=\'ic_smiling_face_with_heart\'\/\>]]><![CDATA[\<img src\=\'ic_smiling_face_with_heart\'\/\>]]><![CDATA[\<img src\=\'ic_smiling_face_with_heart\'\/\>]]> </item>
+        <item name="txt_thank_conver_send">Thank you for this conversation <![CDATA[\<img src\=\'ic_smiling_with_smiling_eyes\'\/\>]]>  <![CDATA[\<img src\=\'ic_smiling_with_smiling_eyes\'\/\>]]>  </item>
+    </string-array>
+</resources>

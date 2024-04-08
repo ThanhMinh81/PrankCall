@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+        <!--    color custom        -->
+
+    <color name="backgroundBottomNavi">#5CBCFD</color>
+    <color name="itemBackgroundMenu">#305975</color>
+    <color name="colorForCbNotCheck">#95a5a6</color>
+    <color name="colorMess">#ECEAEA</color>
+    <color name="colorIcNav">#3B79A8</color>
+    <color name="buttonEndCall">#FF0000</color>
+    <color name="buttonCall">#26C000</color>
+    <color name="borderButtonCall">#25BF00</color>
+
+
+
+
+
+
+
+
+
+
+
+</resources>

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MyAppCall</string>
+    <string name="txt_active_now">Active Now</string>
+    <string name="txt_title_call">CALL WITH</string>
+    <string name="txt_text_search">Search</string>
+    <string name="txt_call_navbottom">Calling</string>
+    <string name="txt_direct_navbottom">Direct</string>
+    <string name="txt_name_default">Monster Man Prank Call</string>
+    <string name="txt_end_call">Call ended</string>
+    <string name="txt_tap_close">Tap To Close</string>
+    <string name="txt_text_receive_call">is calling you</string>
+    <string name="txt_title_watch">WATCH MORE</string>
+    <string name="txt_typing_message">Typing</string>
+    <string name="txt_loading_splash">Loading</string>
+    <string name="txt_last_message">New message</string>
+    <string name="txt_text_message">ED It\'s just a joke bro , I\'m still alive. while, it that true I\'m traveling all over Europe and I post my trip on Instagram every day. Do you know my Insta?</string>
+    <string name="txt_text_sugessmessage">ED It\'s just a joke bro , I\'m still alive. while, it that true I\'m traveling all over Europe and I post my trip on Instagram every day. Do you know my Insta?</string>
+
+</resources>
